@@ -1,0 +1,3 @@
+/home/matias/Escritorio/Algo2/algoritmos DS/cmake-build-debug/CMakeFiles/algoritmos_DS.dir
+/home/matias/Escritorio/Algo2/algoritmos DS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matias/Escritorio/Algo2/algoritmos DS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
