@@ -1,20 +1,26 @@
-# Algoritmos de Búsqueda en C++.
-Este repositorio contiene implementaciones de varios algoritmos de búsqueda en el lenguaje C++. <br>
-Estos algoritmos fueron aprendidos y desarrollados como parte de mis estudios en la facultad. <br>
+# Search Algorithms in C++
+This repository contains implementations of various search algorithms in the C++ language. <br>
+These algorithms were learned and developed as part of my studies in college. <br>
 
-## Algoritmos de Búsqueda incluidos
-. Búsqueda lineal  <br>
-. Búsqueda binaria<br>
+## Searching Algorithms
+1. Linear Search <br>
+2. Binary Search<br>
 
-## Algoritmos de Sorting incluidos
-. Merge Sort <br>
-. Heap Sort <br>
-. Bubble Sort <br>
-. Insertion Sort <br>
-. Selection Sort <br>
-. Counting Sort <br>
+## Sorting Algorithms
+1. Merge Sort <br>
+2. Heap Sort <br>
+3. Bubble Sort <br>
+4. Insertion Sort <br>
+5. Selection Sort <br>
+6. Counting Sort <br>
 
-## Requisitos
-Para compilar y ejecutar estos algoritmos, necesitarás tener instalado un compilador de C++ en tu sistema. <br>
-Se recomienda utilizar GCC o Clang.<br>
+## Requirements
+To compile and run these algorithms, you will need to have a C++ compiler installed on your system. <br>
+It is recommended to use GCC or Clang.<br>
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliomatiasgangui.my.canva.site)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-gangui-660654175/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matias258)
 
