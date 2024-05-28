@@ -1,28 +1,34 @@
 
-# Implementación de Estructuras en C++
-Este repositorio contiene implementaciones de estructuras de datos en C++ para realizar diferentes operaciones y manipulaciones de datos de manera eficiente. A continuación se detalla la estructura de carpetas y las estructuras implementadas:
+# Data Structures Implementation in C++
+This repository contains implementations of data structures in C++ for performing various operations and data manipulations efficiently. Below is the folder structure and the implemented structures:
 
-## Estructuras Implementadas
-Carpeta taller1: Implementación de la estructura de datos Lista.
+## Implemented Structures
+Folder "taller1": Implementation of the List data structure.
 
-Carpeta taller2: Implementación de la estructura de datos Conjunto.
+Folder "taller2": Implementation of the Set data structure.
 
-Carpeta taller3: Implementación de la estructura de datos Trie.
+Folder "taller3": Implementation of the Trie data structure.
 
-## Descripción de las Estructuras
-1. Lista
+## Description of the Structures
+1. List
 
-La estructura de datos Lista es una colección ordenada de elementos en la que se pueden realizar operaciones de inserción, eliminación y acceso a los elementos de manera eficiente. La implementación proporcionada en la carpeta taller1 permite trabajar con listas enlazadas, ofreciendo métodos para agregar elementos al inicio o final de la lista, eliminar elementos, buscar elementos y obtener información sobre el tamaño de la lista.
+The List data structure is an ordered collection of elements where operations like insertion, deletion, and access to elements can be efficiently performed. The implementation provided in the "taller1" folder allows working with linked lists, offering methods to add elements to the beginning or end of the list, delete elements, search for elements, and obtain information about the size of the list.
 
-2. Conjunto
+2. Set
    
-La estructura de datos Conjunto es una colección de elementos únicos sin un orden específico. La implementación proporcionada en la carpeta taller2 permite trabajar con conjuntos utilizando una estructura basada en tablas de dispersión (hash table), lo que permite una búsqueda eficiente y garantiza la unicidad de los elementos. Se pueden realizar operaciones como agregar elementos al conjunto, eliminar elementos, comprobar la pertenencia de un elemento y obtener el tamaño del conjunto.
+The Set data structure is a collection of unique elements without a specific order. The implementation provided in the "taller2" folder allows working with sets using a hash table-based structure, enabling efficient search and ensuring the uniqueness of elements. Operations like adding elements to the set, deleting elements, checking the membership of an element, and obtaining the size of the set can be performed.
 
 3. Trie
    
-El Trie, también conocido como árbol de prefijos, es una estructura de datos eficiente para almacenar y buscar cadenas de caracteres. La implementación proporcionada en la carpeta taller3 permite trabajar con Tries, ofreciendo métodos para insertar palabras, buscar palabras completas o por prefijo, eliminar palabras y obtener información sobre el número de palabras almacenadas.
+The Trie, also known as a prefix tree, is an efficient data structure for storing and searching strings. The implementation provided in the "taller3" folder allows working with Tries, offering methods to insert words, search for complete words or by prefix, delete words, and obtain information about the number of stored words.
 
-## Cómo utilizar las implementaciones
-Cada carpeta contiene los archivos fuente de la respectiva implementación de la estructura de datos. Puedes copiar los archivos relevantes en tu proyecto de C++ y utilizar las funciones y métodos proporcionados para trabajar con las estructuras de datos correspondientes.
+## How to Use the Implementations
+Each folder contains the source files of the respective implementation of the data structure. You can copy the relevant files into your C++ project and use the provided functions and methods to work with the corresponding data structures.
 
-Recuerda incluir los archivos de encabezado adecuados en tus archivos fuente para poder utilizar las implementaciones de las estructuras de datos.
+Remember to include the appropriate header files in your source files to use the data structure implementations.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliomatiasgangui.my.canva.site)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-gangui-660654175/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matias258)
+
